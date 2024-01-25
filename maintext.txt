@@ -1,1 +1,2 @@
 hi my name is prachiti. this is my first text file on git. 
+this is my first time using git bash.
